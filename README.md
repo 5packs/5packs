@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@Spacks**
 - 👀 I’m interested in **Technology**
-- 🌱 I’m currently learning **C# & YoYo**
+- 🌱 I’m currently learning **C# & Python**
 - 💞️ I’m looking to collaborate on **Coding**
 - 📫 How to reach me **Discord**
 
