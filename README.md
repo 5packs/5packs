@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ### --- About Me ---
 - 🌍 I want to use my engineering powers to help people and make the world a more ergonomic place for us all.
 - 🏫 I'm a Computer Science student at the Hong Kong University of Science and Technology.
-- 📖 I'm currently learning Software Engineering and Artificial Intelligence development.
+- 📖 I'm currently learning Agentic AI development using LangChain and AlgoTrading strategies.
 - ⌚ In my free time, I like to bring old electronics back to life, learn random new skills, and explore the world.
 
 ### --- Tech Stack ---
